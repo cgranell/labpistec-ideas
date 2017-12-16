@@ -44,7 +44,7 @@ Presentation of results of first experiment, discussion to enhace the accuracy o
 Participants. LABPSITEC (...), GEOTEC (...)
 
 
-### Meeting 2017-12-12
+## Meeting 2017-12-12
 Participants. LABPSITEC (Juani), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
 
 Improvements of visualisation tool developed by Ditsuhi:
