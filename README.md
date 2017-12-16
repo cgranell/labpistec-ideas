@@ -6,10 +6,34 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC grouo to r
 
 ## Minutes
 
+
+### Meeting 2017-06-27
+
+Clinical studies:
+* game to help patient with panic attacks / agoraphobia
+* depression: start observing person, add psychological treatment, measure effect, add small serious game, measure effect
+* scientific validation of app by therapists + 3 or 4 patients
+
+Depression: how many times do a patient exit from their house, how far, how much time?
+1. first track patients (8 - 14 days)
+2. psychologists start treatment. App tracks: has he done something different? (does he go to new points? new paths? something outside his habits?)
+3. give certain points (locations) to the user to go; does he arrive there? trajectory to go?
+4. get feedback from the user (questionnaire, included in the app?)
+
+Possible success factors:
+* does the therapy work?
+* does it work in a shorter time? (use of the app should shorten treatment time)
+
+A list of potential experiments, from simpler to more complex and shophisticated, along with questions to answer [was discussed](/meeting20170627/experiments-list.pdf)
+
 ### Meeting 2017-10-26
 Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
 
-Presentation of results of first experiment, discussion to enhace the accuracy of in/out home. Further details in [Diana's minutes](/meeting20171026/20171026minutas.pdf)
+Presentation of results of first experiment, discussion to enhace the accuracy of in/out home. Further details in [Diana's minutes](/meeting20171026/20171026minutas.pdf). In short, main limitations are:
+* hard to determine IN/OUT home based only on GPS data. Signal error and low accuracy make us think about additional methods to GPS readings to respond satisfactorialy to this simple queistion: Is a patient IN/OUT home?
+* app notifications should be drastically reduced. Provied positive message that recognises user participation.
+* Augment period amid consequetive observations to avoid excessive battery drain.
+* Next release of app should address the points for next experiments with real patients in the context of two TFM
 
 ### Meeting 2017-11-16
 Participants. LABPSITEC (...), GEOTEC (...)
