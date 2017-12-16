@@ -6,6 +6,17 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC grouo to r
 
 ## Minutes
 
+### Meeting 2017-10-26
+Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
+
+Presentation of results of first experiment, discussion to enhace the accuracy of in/out home. Further details in "20171026minutas.pdf"
+
+Juana Maria Bretón López, Ignacio Miralles Tena, Carlos
+
+### Meeting 2017-11-16
+Participants. LABPSITEC (...), GEOTEC (...)
+
+
 ### Meeting 2017-12-12
 Participants. LABPSITEC (Juani), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
 
@@ -42,6 +53,5 @@ Experiment:
 TO DO:
 * define a realistic (regarding time) experiment that can be performed (finished) by January 20. (LABPSITEC & GEOTEC)
 
-### Meeting 2017-11-16
+### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
-
