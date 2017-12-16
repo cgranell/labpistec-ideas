@@ -1,5 +1,5 @@
 # labpistec-ideas
-Ideas, meeting minutes and discussion between GEOTEC and LABPSITEC research groups
+Ideas, meetings, discussions and experiments between GEOTEC and LABPSITEC research groups
 
 ## Motivation
 We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC grouo to reach a win-win situation. On one hand, we seek our geospatial developments and toods make a real, social impact in the sense they might be used in real experiments, on the streets. On the other, LABPSITEC group can benefit from technology and tools ready to be used in technology-driven interventions and experiments with cohorts of patients and hence considerably shorthenen tiems for data collection, analysis adn decision making.
@@ -9,9 +9,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC grouo to r
 ### Meeting 2017-10-26
 Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
 
-Presentation of results of first experiment, discussion to enhace the accuracy of in/out home. Further details in "20171026minutas.pdf"
-
-Juana Maria Bretón López, Ignacio Miralles Tena, Carlos
+Presentation of results of first experiment, discussion to enhace the accuracy of in/out home. Further details in [Diana's minutes](/meeting20171026/20171026minutas.pdf)
 
 ### Meeting 2017-11-16
 Participants. LABPSITEC (...), GEOTEC (...)
