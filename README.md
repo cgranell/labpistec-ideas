@@ -6,6 +6,11 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC grouo to r
 
 ## Minutes
 
+* [Meeting 2017-06-27](#Meeting-2017-06-27)
+* [Meeting 2017-07-DD](#)
+* [Meeting 2017-10-26](#Meeting-2017-10-26)
+* [Meeting 2017-11-16](#Meeting-2017-11-16)
+* [Meeting 2017-12-12](#Meeting-2017-12-12)
 
 ### Meeting 2017-06-27
 
