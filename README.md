@@ -2,17 +2,18 @@
 Ideas, meetings, discussions and experiments between GEOTEC and LABPSITEC research groups
 
 ## Motivation
-We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC grouo to reach a win-win situation. On one hand, we seek our geospatial developments and toods make a real, social impact in the sense they might be used in real experiments, on the streets. On the other, LABPSITEC group can benefit from technology and tools ready to be used in technology-driven interventions and experiments with cohorts of patients and hence considerably shorthenen tiems for data collection, analysis adn decision making.
+We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to reach a win-win situation. On one hand, we seek our geospatial developments and toods make a real, social impact in the sense they might be used in real experiments, on the streets. On the other, LABPSITEC group can benefit from ready-to-use geospatial technology and tools for technology-driven interventions and experiments with cohorts of patients and hence considerably shorthenen times for data collection, analysis adn decision making.
 
 ## Minutes
 
-* [Meeting 2017-06-27](README.md#Meeting-2017-06-27)
-* [Meeting 2017-07-DD](#)
-* [Meeting 2017-10-26](README.md#Meeting-2017-10-26)
-* [Meeting 2017-11-16](README.md#Meeting-2017-11-16)
-* [Meeting 2017-12-12](README.md#Meeting-2017-12-12)
+* [Meeting 2017-06-27](README.md#meeting-2017-06-27)
+* [Meeting 2017-09-18](#meeting-2017-09-18)
+* [Meeting 2017-10-26](README.md#meeting-2017-10-26)
+* [Meeting 2017-11-16](README.md#meeting-2017-11-16)
+* [Meeting 2017-12-12](README.md#meeting-2017-12-12)
 
 ### Meeting 2017-06-27
+Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
 
 Clinical studies:
 * game to help patient with panic attacks / agoraphobia
@@ -29,7 +30,23 @@ Possible success factors:
 * does the therapy work?
 * does it work in a shorter time? (use of the app should shorten treatment time)
 
-A list of potential experiments, from simpler to more complex and shophisticated, along with questions to answer [was discussed](/meeting20170627/experiments-list.pdf)
+A list of potential experiments, from simpler to more complex and shophisticated, along with questions to answer [was discussed](/meeting20170627/experiments-list.pdf). It is decided to develop an app to monitor user's position and create the correspondig metric in the analytical platform to calculate: how many times do a user go out home?, and how long? DEvleopedn hasecovered July, August and early September, in order to conduct a first experiment with Labpistec staff in late September. 
+
+### Meeting 2017-09-18
+Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Carlos, Sven)
+
+Released features of the first developmen are summarised as follows:
+
+1. Definition of the application and the metrics in the server to cofigire the variables needed for the experiment 
+
+2. Creation fo a mobile app, composed of:
+    * Initial configuration tool, where the user (or perhaps the therapist in this case) indicates the user ID (with double confirmation), the point where the user's house is located, the radius that is defined as "area of the house" (the area from which it leaves or enters) and the date from which measures should begin to be taken.
+    * Backgground service (which does not require interaction by the user) for monitoring regularly data and storing it.
+
+3. A visualization tool so you can access the data. At the moment this tool will offer the best possible variables that you have asked us with some filters (by user, by date ...).
+
+Experiment run from 25 to 28 of September. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be here (to be devlop soon: @CARLOS)
+
 
 ### Meeting 2017-10-26
 Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
