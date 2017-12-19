@@ -41,9 +41,9 @@ Released features of the first developmen are summarised as follows:
 
 2. Creation fo a mobile app, composed of:
     * Initial configuration tool, where the user (or perhaps the therapist in this case) indicates the user ID (with double confirmation), the point where the user's house is located, the radius that is defined as "area of the house" (the area from which it leaves or enters) and the date from which measures should begin to be taken.
-    * Backgground service (which does not require interaction by the user) for monitoring regularly data and storing it.
+    * Background service (which does not require interaction with the user) for monitoring regularly data and storing it.
 
-3. A visualization tool so you can access the data. At the moment this tool will offer the best possible variables that you have asked us with some filters (by user, by date ...).
+3. A visualization tool so you can access the data. At the moment this tool will offer the best possible variables requested for the experiment with filters capabilities (by user, by date ...).
 
 Experiment run from 25 to 28 of September. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be here (to be devlop soon: @CARLOS)
 
