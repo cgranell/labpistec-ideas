@@ -2,12 +2,13 @@
 Ideas, meetings, discussions and experiments between GEOTEC and LABPSITEC research groups
 
 ## Motivation
-We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to reach a win-win situation. On one hand, we seek our geospatial developments and toods make a real, social impact in the sense they might be used in real experiments, on the streets. On the other, LABPSITEC group can benefit from ready-to-use geospatial technology and tools for technology-driven interventions and experiments with cohorts of patients and hence considerably shorthenen times for data collection, analysis adn decision making.
+We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to reach a win-win situation. On one hand, we seek our geospatial developments and toods make a real, social impact in the sense they might be used in real experiments, on the streets. On the other, LABPSITEC group can benefit from ready-to-use geospatial technology and tools for technology-driven interventions and experiments with cohorts of patients and hence considerably shorthenen times for data collection, analysis and decision making.
 
 ## Minutes
 
 * [Meeting 2017-06-27](#meeting-2017-06-27)
 * [Meeting 2017-09-18](#meeting-2017-09-18)
+* [Meeting 2017-10-16](#meeting-2017-10-16)
 * [Meeting 2017-10-26](#meeting-2017-10-26)
 * [Meeting 2017-11-16](#meeting-2017-11-16)
 * [Meeting 2017-12-12](#meeting-2017-12-12)
@@ -30,7 +31,7 @@ Possible success factors:
 * does the therapy work?
 * does it work in a shorter time? (use of the app should shorten treatment time)
 
-A list of potential experiments, from simpler to more complex and shophisticated, along with questions to answer [was discussed](/meeting20170627/experiments-list.pdf). It is decided to develop an app to monitor user's position and create the correspondig metric in the analytical platform to calculate: how many times do a user go out home?, and how long? DEvleopedn hasecovered July, August and early September, in order to conduct a first experiment with Labpistec staff in late September. 
+A list of potential experiments, from simpler to more complex and shophisticated, along with questions to answer [was discussed](/meeting20170627/experiments-list.pdf). It is decided to develop an app to monitor user's position and create the correspondig metric in the analytical platform to calculate: how many times do a user go out home?, and how long? Development will cover July, August and early September, in order to conduct a first experiment with Labpistec staff by late September 2017. 
 
 ### Meeting 2017-09-18
 Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -45,17 +46,22 @@ Released features of the first developmen are summarised as follows:
 
 3. A visualization tool so you can access the data. At the moment this tool will offer the best possible variables requested for the experiment with filters capabilities (by user, by date ...).
 
-Experiment run from 25 to 28 of September. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be here (to be devlop soon: @CARLOS)
+Experiment run from 25 to 28 of September. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be here (to be developed soon: @CARLOS)
+
+### Meeting 2017-10-16
+Participants: LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
+
+Presentation of two TFM projects, which may be potential candidate to use the app for data collection and the analytical platform for metric computation. Discussion of TFM's requirements and needs. Next, we discussed how the Ditshuhi's viz tool might be evaluated. One alternative was to use it to analyse patients' data. Another was to use it to analyse researcher's decision making process, i.e., how does the visualised data inform on the treatment (designed by the researcher)? 
 
 
 ### Meeting 2017-10-26
 Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
 
-Presentation of results of first experiment, discussion to enhace the accuracy of in/out home. Further details in [Diana's minutes](/meeting20171026/20171026minutas.pdf). In short, main limitations are:
+Presentation of results of first experiment (meeting 2017-09-18), discussion to enhace the accuracy of in/out home. Further details in [Diana's minutes](/meeting20171026/20171026minutas.pdf). In short, main limitations are:
 * hard to determine IN/OUT home based only on GPS data. Signal error and low accuracy make us think about additional methods to GPS readings to respond satisfactorialy to this simple queistion: Is a patient IN/OUT home?
 * app notifications should be drastically reduced. Provied positive message that recognises user participation.
 * Augment period amid consequetive observations to avoid excessive battery drain.
-* Next release of app should address the points for next experiments with real patients in the context of two TFM
+* Next release of app should address the points for next experiments with real patients in the context of the two TFM projects presented durinf the last meeting. It was discussed different data collection strategies (time-based, place-based, beacon-based, etc.) since distinct psychological problems drive the ways to collect data and the ways to best visualise it
 
 ### Meeting 2017-11-16
 Participants. LABPSITEC (...), GEOTEC (...)
