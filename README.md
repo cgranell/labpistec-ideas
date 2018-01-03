@@ -51,7 +51,7 @@ Experiment run from 25 to 28 of September. Juani/Diana provided 3-day data, Azu 
 ### Meeting 2017-10-16
 Participants: LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
 
-Presentation of two TFM projects, which may be potential candidate to use the app for data collection and the analytical platform for metric computation. Discussion of TFM's requirements and needs. Next, we discussed how the Ditshuhi's viz tool might be evaluated. One alternative was to use it to analyse patients' data. Another was to use it to analyse researcher's decision making process, i.e., how does the visualised data inform on the treatment (designed by the researcher)? 
+Presentation of two TFM projects, which may be potential candidate to use the app for data collection and the analytical platform for metric computation. Further details of TFMs [here](meeting20171016). Discussion of TFM's requirements and needs. Next, we discussed how the Ditshuhi's viz tool might be evaluated. One alternative was to use it to analyse patients' data. Another was to use it to analyse researcher's decision making process, i.e., how does the visualised data inform on the treatment (designed by the researcher)? 
 
 
 ### Meeting 2017-10-26
