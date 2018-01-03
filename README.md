@@ -74,7 +74,7 @@ Improvements of visualisation tool developed by Ditsuhi:
 * a more advanced tool is available
 * demonstration was given
 TO DO:
-* deploy the tool publicly, so everybody can access it (GEOTEC)
+* deploy the tool publicly, so everybody can access it (GEOTEC) - Update: Viz tool is [online](https://labpsitec-4097d.firebaseapp.com/auth/login) 
 * updates to the tool (GEOTEC)
 * check the tools, specifically usability, type of data & graphs used (LABPSITEC)
 * tell us improvements (suggest additional data visualisations; change of graph type; other grouping of data; etc.)  (LABPSITEC)
