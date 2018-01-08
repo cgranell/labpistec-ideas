@@ -12,6 +12,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2017-10-26](#meeting-2017-10-26)
 * [Meeting 2017-11-16](#meeting-2017-11-16)
 * [Meeting 2017-12-12](#meeting-2017-12-12)
+* [Experiment 2018-01-08](#meeting-2019-01-08)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -102,6 +103,10 @@ Experiment:
 
 TO DO:
 * define a realistic (regarding time) experiment that can be performed (finished) by January 20. (LABPSITEC & GEOTEC)
+
+### Experiment 2018-01-08
+
+On Jan 8th, the last release of the app is being tested by a total of 8 therapists during one week (8-15 Jan). They will be using the tool and giving feedback regarding the app functioning and the collected data from the therapy's point of view (a final questionnaire will be defined to get structured feedback). This represents the fist, serious validation study of the tool (data collection app) 
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
