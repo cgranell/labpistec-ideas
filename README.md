@@ -13,6 +13,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2017-11-16](#meeting-2017-11-16)
 * [Meeting 2017-12-12](#meeting-2017-12-12)
 * [Experiment 2018-01-08](#meeting-2019-01-08)
+* [Meeting 2018-01-11](#meeting-2018-01-11)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -107,6 +108,21 @@ TO DO:
 ### Experiment 2018-01-08
 
 On Jan 8th, the last release of the app is being tested by a total of 8 therapists during one week (8-15 Jan). They will be using the tool and giving feedback regarding the app functioning and the collected data from the therapy's point of view (a final questionnaire will be defined to get structured feedback). This represents the fist, serious validation study of the tool (data collection app) 
+
+### Meeting 2018-01-11
+Participants. LABPSITEC (Diana, Juani), GEOTEC (Nacho, Ditsuhi, Carlos, Sven)
+
+Two objectives: pne shorter (Ditsuhi; evaluation of visualisation of results; thesis submission date 01/02/2018) and one longer term (Luis & Nacho; evaluation of the whole system via the ongoing experiment).
+
+As regards the revision of Ditsihu's visualisation tool, it is proposed:
+* Therapist/participants (N=9 + Diana and Juani) use/test the tool + sign informed consent.
+* Each one fills in usability questionnaire (prior to open discussion to avoid biased response)
+* a (recorded) focus group to run an open discussion to evaluate pros and cons (e.g. compared to the traditional way of working) in a more qualitative manner.
+* Each one fills in tnhe second questionaire on th eeffectiveness of the tool (in terms of clinical use)
+
+The resutls of the evaluation are 1/ a set of questionnaires and 2/ notes/summary/transcriptions of the open discussion (once we watch again footage)?  
+
+Date (focus group): 18 Jan?
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
