@@ -14,6 +14,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2017-12-12](#meeting-2017-12-12)
 * [Experiment 2018-01-08](#meeting-2019-01-08)
 * [Meeting 2018-01-11](#meeting-2018-01-11)
+* [Focus group 2018-01-22](#focus-group-2018-01-22)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -123,6 +124,10 @@ As regards the revision of Ditsihu's visualisation tool, it is proposed:
 The resutls of the evaluation are 1/ a set of questionnaires and 2/ notes/summary/transcriptions of the open discussion (once we watch again footage)?  
 
 Date (focus group): 18 Jan?
+
+### Focus group 2018-01-22
+Participants. LABPSITEC (8 participants + Diana as master of ceremony), GEOTEC (Nacho, Ditsuhi, Sven as observers)
+
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
