@@ -128,6 +128,10 @@ Date (focus group): 18 Jan?
 ### Focus group 2018-01-22
 Participants. LABPSITEC (8 participants + Diana as master of ceremony), GEOTEC (Nacho, Ditsuhi, Sven as observers)
 
+The focus group was aimed to collect qualitative information from participants' experience (N=8) of using Ditsuhi's data visualisation web app. The application shows input and processed data by mans of a set of map-based and chart-based visualisations. Discussion was centred on whether or not the applicaiton might be useful in the context of clinical psychology, as for example:
+* Depression: how many times has a patient left home? How long has he spent away from home? What if he has not left home in all week?
+* Agoraphobia: How close have you been to the mall (i.e crowded places) where the patient should be exposed? Or how much has he managed to get away from his area of security/comfort?
+* Pathological game: Have the patient approached a play area? How long has he been there? How many times has he visited that place?
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
