@@ -50,7 +50,7 @@ Released features of the first developmen are summarised as follows:
 
 3. A visualization tool so you can access the data. At the moment this tool will offer the best possible variables requested for the experiment with filters capabilities (by user, by date ...).
 
-### Meeting 2017-10-16
+### Experiment 2017-09-25
 Participants: LABPSITEC (Juani, Diana, Azu)
 
 First experiment run from 25 to 28 of September 2017. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be provided as part of a R package `labpsitecData` (to be released soon: @CARLOS)
