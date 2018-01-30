@@ -8,11 +8,12 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 
 * [Meeting 2017-06-27](#meeting-2017-06-27)
 * [Meeting 2017-09-18](#meeting-2017-09-18)
+* [Experiment 2017-09-25](#meeting-2017-09-25)
 * [Meeting 2017-10-16](#meeting-2017-10-16)
 * [Meeting 2017-10-26](#meeting-2017-10-26)
 * [Meeting 2017-11-16](#meeting-2017-11-16)
 * [Meeting 2017-12-12](#meeting-2017-12-12)
-* [Experiment 2018-01-08](#meeting-2019-01-08)
+* [Experiment 2018-01-08](#meeting-2018-01-08)
 * [Meeting 2018-01-11](#meeting-2018-01-11)
 * [Focus group 2018-01-22](#focus-group-2018-01-22)
 
@@ -49,7 +50,10 @@ Released features of the first developmen are summarised as follows:
 
 3. A visualization tool so you can access the data. At the moment this tool will offer the best possible variables requested for the experiment with filters capabilities (by user, by date ...).
 
-Experiment run from 25 to 28 of September. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be here (to be developed soon: @CARLOS)
+### Meeting 2017-10-16
+Participants: LABPSITEC (Juani, Diana, Azu)
+
+First experiment run from 25 to 28 of September 2017. Juani/Diana provided 3-day data, Azu 1.5-day data, usign the [app](https://play.google.com/apps/testing/com.geotec.metrics.labpsitec_metrics_project). Output data resulting from the metric computation will be provided as part of a R package `labpsitecData` (to be released soon: @CARLOS)
 
 ### Meeting 2017-10-16
 Participants: LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Ditsuhi, Carlos, Sven)
