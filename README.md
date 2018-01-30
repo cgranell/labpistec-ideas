@@ -8,12 +8,12 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 
 * [Meeting 2017-06-27](#meeting-2017-06-27)
 * [Meeting 2017-09-18](#meeting-2017-09-18)
-* [Experiment 2017-09-25](#meeting-2017-09-25)
+* [Experiment 2017-09-25](#experiment-2017-09-25)
 * [Meeting 2017-10-16](#meeting-2017-10-16)
 * [Meeting 2017-10-26](#meeting-2017-10-26)
 * [Meeting 2017-11-16](#meeting-2017-11-16)
 * [Meeting 2017-12-12](#meeting-2017-12-12)
-* [Experiment 2018-01-08](#meeting-2018-01-08)
+* [Experiment 2018-01-08](#experiment-2018-01-08)
 * [Meeting 2018-01-11](#meeting-2018-01-11)
 * [Focus group 2018-01-22](#focus-group-2018-01-22)
 
