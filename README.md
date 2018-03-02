@@ -16,6 +16,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Experiment 2018-01-08](#experiment-2018-01-08)
 * [Meeting 2018-01-11](#meeting-2018-01-11)
 * [Focus group 2018-01-22](#focus-group-2018-01-22)
+* [Meeting 2018-03-02](#meeting-2018-03-02)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -136,6 +137,11 @@ The focus group was aimed to collect qualitative information from participants' 
 * Depression: how many times has a patient left home? How long has he spent away from home? What if he has not left home in all week?
 * Agoraphobia: How close have you been to the mall (i.e crowded places) where the patient should be exposed? Or how much has he managed to get away from his area of security/comfort?
 * Pathological game: Have the patient approached a play area? How long has he been there? How many times has he visited that place?
+
+### Meeting 2018-03-02
+Participants. LABPSITEC (Juani, Diana, ...), GEOTEC (Nacho. Sven, Carlos)
+
+Aim: 
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
