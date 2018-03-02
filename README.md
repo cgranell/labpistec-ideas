@@ -141,7 +141,7 @@ The focus group was aimed to collect qualitative information from participants' 
 ### Meeting 2018-03-02
 Participants. LABPSITEC (Juani, Laura, Adriana, Diana), GEOTEC (Nacho. Sven, Carlos)
 
-The meeting was aimed to decide on the scope, search terms and search strategy of the review. Keywords per discipline were defined. Main data sources were also identified: WoS, Scopus, and Medline
+The meeting was aimed to decide on the scope, search terms and search strategy of the review. Keywords per discipline were defined. Main data sources were also identified: WoS, Scopus, and Medline. Specialised databases might be used too, especially [psynet](http://psycnet.apa.org/search/basic). 
 
 
 
