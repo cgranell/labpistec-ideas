@@ -139,9 +139,12 @@ The focus group was aimed to collect qualitative information from participants' 
 * Pathological game: Have the patient approached a play area? How long has he been there? How many times has he visited that place?
 
 ### Meeting 2018-03-02
-Participants. LABPSITEC (Juani, Diana, ...), GEOTEC (Nacho. Sven, Carlos)
+Participants. LABPSITEC (Juani, Laura, Adriana, Diana), GEOTEC (Nacho. Sven, Carlos)
 
-Aim: 
+The meeting was aimed to decide on the scope, search terms and search strategy of the review. Keywords per discipline were defined. Main data sources were also identified: WoS, Scopus, and Medline
+
+
+
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
