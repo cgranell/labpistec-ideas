@@ -144,7 +144,5 @@ Participants. LABPSITEC (Juani, Laura, Adriana, Diana), GEOTEC (Nacho. Sven, Car
 The meeting was aimed to decide on the scope, search terms and search strategy of the review. Keywords per discipline were defined. Main data sources were also identified: WoS, Scopus, and Medline. Specialised databases might be used too, especially [psynet](http://psycnet.apa.org/search/basic). 
 
 
-
-
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
