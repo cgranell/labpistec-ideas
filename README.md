@@ -17,6 +17,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2018-01-11](#meeting-2018-01-11)
 * [Focus group 2018-01-22](#focus-group-2018-01-22)
 * [Meeting 2018-03-02](#meeting-2018-03-02)
+* [Meeting 2018-05-09](#meeting-2018-05-09)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -142,6 +143,14 @@ The focus group was aimed to collect qualitative information from participants' 
 Participants. LABPSITEC (Juani, Laura, Adriana, Diana), GEOTEC (Nacho. Sven, Carlos)
 
 The meeting was aimed to decide on the scope, search terms and search strategy of the review. Keywords per discipline were defined. Main data sources were also identified: WoS, Scopus, and Medline. Specialised databases might be used too, especially [psynet](http://psycnet.apa.org/search/basic). 
+
+### Meeting 2018-05-09
+Participants. GEOTEC members only
+
+Notes on the geobreakfast meeting where Menhdi presented his work on the trajectory package. This package contains classes and methods for spatio-temporal analysis of trajectories. 
+
+, 
+
 
 
 ### Meeting YYYY-MM-DD
