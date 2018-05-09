@@ -147,11 +147,7 @@ The meeting was aimed to decide on the scope, search terms and search strategy o
 ### Meeting 2018-05-09
 Participants. GEOTEC members only
 
-Notes on the geobreakfast meeting where Menhdi presented his work on the trajectory package. This package contains classes and methods for spatio-temporal analysis of trajectories. 
-
-, 
-
-
+Notes on the geobreakfast meeting where Menhdi presented his work on the trajectory package. This package contains classes and methods for spatio-temporal analysis of trajectories. This package might be used for comparing trajectoryof patiente in teh heal use case. Hoever, time dimension seems to be an impediment for the health use case because time is not relevant. In addition, interaction between trajectories (i.e patients) are independent, we do not intent to study interactions between patients across time; each patient's trajectory is studied in isolation. 
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
