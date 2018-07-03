@@ -18,6 +18,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Focus group 2018-01-22](#focus-group-2018-01-22)
 * [Meeting 2018-03-02](#meeting-2018-03-02)
 * [Meeting 2018-05-09](#meeting-2018-05-09)
+* [Meeting 2018-07-03](#meeting-2018-07-03)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -140,7 +141,7 @@ The focus group was aimed to collect qualitative information from participants' 
 * Pathological game: Have the patient approached a play area? How long has he been there? How many times has he visited that place?
 
 ### Meeting 2018-03-02
-Participants. LABPSITEC (Juani, Laura, Adriana, Diana), GEOTEC (Nacho. Sven, Carlos)
+Participants. LABPSITEC (Juani, Laura, Adriana, Diana), GEOTEC (Nacho, Sven, Carlos)
 
 The meeting was aimed to decide on the scope, search terms and search strategy of the review. Keywords per discipline were defined. Main data sources were also identified: WoS, Scopus, and Medline. Specialised databases might be used too, especially [psynet](http://psycnet.apa.org/search/basic). 
 
@@ -148,6 +149,11 @@ The meeting was aimed to decide on the scope, search terms and search strategy o
 Participants. GEOTEC members only
 
 Notes on the geobreakfast meeting where Menhdi presented his work on the trajectory package. This package contains classes and methods for spatio-temporal analysis of trajectories. This package might be used for comparing patients' trajectories in the health use case. Hoewver, time dimension seems to be an impediment for the health use case because time (up to now) is not relevant. In addition, interactions between trajectories (i.e patients) are independent, we do not intent to study behaviour/interactions between patients across time because each patient's trajectory is studied in isolation. 
+
+### Meeting 2018-07-03
+Participants. LABPSITEC (Juani, Laura, Diana), GEOTEC (Nacho, Sven, Carlos)
+
+The meeting was aimed to discuss the categories and dimensions to extract key bits of useful information from the paper review.
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
