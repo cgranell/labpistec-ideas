@@ -153,7 +153,7 @@ Notes on the geobreakfast meeting where Menhdi presented his work on the traject
 ### Meeting 2018-07-03
 Participants. LABPSITEC (Juani, Laura, Diana), GEOTEC (Nacho, Sven, Carlos)
 
-The meeting was aimed to discuss the categories and dimensions to extract key bits of useful information from the set of eligible papers. It was also discussed the required steps of the second stage of the reviewing process. A plan for next activities was agreed to make progess in the refinement for the dimensions/categories
+The meeting was aimed to discuss the categories and dimensions to extract key bits of useful information from the set of eligible papers. It was also discussed the required steps of the second stage of the reviewing process. A plan for next activities was agreed to make progress in the refinement of the dimensions/categories adn the preliminary assessment of 10% of the eligible papers.
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
