@@ -19,7 +19,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2018-03-02](#meeting-2018-03-02)
 * [Meeting 2018-05-09](#meeting-2018-05-09)
 * [Meeting 2018-07-03](#meeting-2018-07-03)
-* [Meeting 2018-12-14](#meeting-2018-12-014)
+* [Meeting 2018-12-14](#meeting-2018-12-14)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
