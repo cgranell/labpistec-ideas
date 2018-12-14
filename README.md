@@ -19,6 +19,7 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2018-03-02](#meeting-2018-03-02)
 * [Meeting 2018-05-09](#meeting-2018-05-09)
 * [Meeting 2018-07-03](#meeting-2018-07-03)
+* [Meeting 2018-12-14](#meeting-2018-12-014)
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -154,6 +155,12 @@ Notes on the geobreakfast meeting where Menhdi presented his work on the traject
 Participants. LABPSITEC (Juani, Laura, Diana), GEOTEC (Nacho, Sven, Carlos)
 
 The meeting was aimed to discuss the categories and dimensions to extract key bits of useful information from the set of eligible papers. It was also discussed the required steps of the second stage of the reviewing process. A plan for next activities was agreed to make progress in the refinement of the dimensions/categories adn the preliminary assessment of 10% of the eligible papers.
+
+
+### Meeting 2018-12-14
+Participants. LABPSITEC (Diana), GEOTEC (Nacho, Alberto, Carlos)
+
+Since [Symptoms](http://geotec.uji.es/projects/symptoms/) tool requires users’ long-term engagement to yield meaningful analysis, we  think that one of the best ways to engage users is to make the tool intuitive and comfortable for use. Thus we step back and realise that the project has to take into account design research:
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
