@@ -46,7 +46,7 @@ Participants. LABPSITEC (Juani, Diana), GEOTEC (Nacho, Luis, Carlos, Sven)
 
 Released features of the first developmen are summarised as follows:
 
-1. Definition of the application and the metrics in the server to cofigire the variables needed for the experiment 
+1. Definition of the application and the metrics in the server to configure the variables needed for the experiment. 
 
 2. Creation fo a mobile app, composed of:
     * Initial configuration tool, where the user (or perhaps the therapist in this case) indicates the user ID (with double confirmation), the point where the user's house is located, the radius that is defined as "area of the house" (the area from which it leaves or enters) and the date from which measures should begin to be taken.
