@@ -20,6 +20,11 @@ We (GEOTEC) want to start a prolonged colaboration with the LABPSITEC group to r
 * [Meeting 2018-05-09](#meeting-2018-05-09)
 * [Meeting 2018-07-03](#meeting-2018-07-03)
 * [Meeting 2018-12-14](#meeting-2018-12-14)
+* [Meeting 2019-10-04](#meeting-2019-10-04)
+* [Meeting 2018-10-10](#meeting-2019-10-10)
+* [Meeting 2018-10-17](#meeting-2019-10-17)
+
+
 
 ### Meeting 2017-06-27
 Participants. LABPSITEC (Juani, Diana, Azu), GEOTEC (Nacho, Luis, Carlos, Sven)
@@ -203,6 +208,14 @@ In summary:
 * There is no taxonomy of emotions. Psychologists reviewed again literature prior to the meeting.
 * Measuring emotions makes sense only in a particular type of disorder. For example, we can measure “fear” in the disorder of phobias, but levels of the same emotion (fear) are interpreted differently in another type of disorder. So, the interpretation of the levels of emotion varies from disorder to disorder
 * Ask directly the level of “fear”
+
+### Meeting 2019-10-10
+Participants. LABPSITEC (), GEOTEC ()
+
+
+### Meeting 2019-10-17
+Participants. LABPSITEC (), GEOTEC ()
+
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
