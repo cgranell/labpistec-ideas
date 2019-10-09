@@ -162,5 +162,47 @@ Participants. LABPSITEC (Diana), GEOTEC (Nacho, Alberto, Carlos)
 
 Since [Symptoms](http://geotec.uji.es/projects/symptoms/) tool requires users’ long-term engagement to yield meaningful analysis, we  think that one of the best ways to engage users is to make the tool intuitive and comfortable for use. Thus we step back and realise that the project has to take into account design research:
 
+### Meeting 2019-10-04
+Participants. LABPSITEC (Diana), GEOTEC (Sven, Alberto, Nacho, Carlos)
+
+That was a long meeting to primary discuss usability aspects of a new user interface (mock-up) of the Symptoms platform. This is a summary of the proposed changes: 
+* Table of patients
+  * each column must have the ability to be ordered
+  * hide inactive patients, add a new filter in the top of the table (active/inactive patients)
+  * End date of the treatment. A therapists can leave it open, or set a date which can be modified later if required
+  * Add total number of days to the column "# days treatment in use" like this: "4/15" means fourth day out of 15
+  * Delete "New patient" button
+  * Reorder columns by priority: ID, alerts, watch treatment, Protocol, # days in use, Installation date, "..."
+  * "Watch treatment" is a new column with the graph icon in it
+  * Move "edit" icon to the view of "comments" when it's clicked on the "plus" icon
+  * Put "ON/OFF" (active/inactive patient) as part of the actions of "..."
+* Left panel
+  * "Plantillas" -> "Protocolo"
+  * "Ver plantillas" -> "Ver protocolos"
+  * "Nueva plantilla" remains the same but hideen for basic users. So, two user profiles: therapist, coordinator
+  
+During the second part of the meeting, we focused on the "plantillas" (protocols). The basic idea is to provide a predefined set of analytical tools / units to therapists associated with a particular disorder. Then, there will be a "plantilla" of depression, phobias, etc. We begin to discuss the case of depression. For example, there are two key places: "home" and "work" that influence on the computation of the real-time outside home (and work). So, time away from home = total time away - time at work. Then, it was commented having several days at the beginning of a treatment as a calibration phase ("baseline") to determine the patient's behavior. At some point, the treatment is really activated by introducing more interaction, evaluation and intervention. In summary, a treatment for depression includes a part of evaluation (data collection) + intervention (interaction). During the intervention, when things are going well, the patient receives a form of content, or another form of content when things are not as expected.  
+  
+We continued the discussion with a well-known technique related to the phobias to certain places ("plantilla fobias"). It is called "exposure" and basically means forcing a patient to visit a place that produces a high level of fear, for example. It is expected that continuous expositions accompanied with in situ interventions can change the patient’s behaviour and lead to a drastic reduction of “fear” while being exposed in that place.In addition, all relevant places are not equally important during treatment; There is a hierarchy of places that organizes them from easy to difficult places to face (like the stages of a game). SO, the follosign analytica units are importante:
+* selection fo relevant places
+* rank places. A patient starts the treatment with "easy" places, and as she advances, she's confronted with "difficult" ones. 
+* define (clinical) decision tree during the event of exposure. it is the sequence of interventions while the patient is in the place
+
+**Action**: Diana to create a detailed (clinical) decision tree of the event of exposure in the treatment of phobias
+
+*My thoughts (carlos): That “exposure” pattern may fit pretty well with graph models. During an event of exposure, a patient is in a place and she’s asked about the level of fear on a regular basis or just after an intervention (psyco-education content, encouraging messages, etc.) is delivered to the patient. So, assuming an event of exposure takes a short period of time (e.g 30 min), a patient is asked the same question various times (level of “fear”), and each question-answer does generate a new relationship between the patient node and the place node with the level of emotion recorded.*
+
+In summary, many questions arise such as how to model the decision tree of an event of exposure? how to store all the steps and interactions that happedn during the event? how to visualise it to patiene in a didactic manner?
+
+(Below Carlos' topic while in UNB)
+Finally, a brief discussion on how to measure the empotian pereoeci of a patient in realtio to a place. To start off, I (carlos) put psychologists in context by explaining the “social” approach deveopled during my stay in UNB to better understand emotions related to places. At UNB, we acknowledged that measuring emotions is something subjective and complex. And no taxonomy was available. For this reason, we looked at social theories (Sense making theory) to create questionnaires aligned with these theories to take into account and collect the complexity of emotional perceptions. Their response was clear: 
+
+On one hand, lots of literature works use devices/sensors to monitor physiological characteristics/measurements (e.g. heart beats, etc.). In their view, these works attempt to objectively measure/identify emotions, but this is still not viable in clinical practice. Certain (co)relations may be computed but the level of confidence is still pretty low to be used in real treatments. On the other hand, social psychology theories (like sense making) are interesting and account for the complexity of subjective emotions (in theory) but it is extremely difficult to translate them to real, clinical settings. Indeed, that was the initial idea discussed in Fredericton: to create questionnaires considering the concepts of Sense making theory to collect emotions. Therefore, from a clinician perspective, I was simply told that **the best way to get the level of an emotion is to ask directly to the patient**. They told me that we (engineers, etc.) often do not trust on a subjective value provided by a person and seek for an objective, single number to summarise the level of emotion using alternative devices (sensors, etc.) and sophisticated analytics. This does not work (yet). The best way (as of today) is to ask “What is your level of fear right now?” in case a therapist is interested in knowing the emotion of fear perceived by a patient. And the patient just picks one value from 1 to 10 when she’s prompted with the question. There is a whole branch in psychology called psychometric that focuses on exploring the best scale for measuring emotions.
+
+In summary:
+* There is no taxonomy of emotions. Psychologists reviewed again literature prior to the meeting.
+* Measuring emotions makes sense only in a particular type of disorder. For example, we can measure “fear” in the disorder of phobias, but levels of the same emotion (fear) are interpreted differently in another type of disorder. So, the interpretation of the levels of emotion varies from disorder to disorder
+* Ask directly the level of “fear”
+
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
