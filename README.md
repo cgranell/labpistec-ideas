@@ -211,7 +211,16 @@ In summary:
 * Ask directly the level of “fear”
 
 ### Meeting 2019-10-10
-Participants. LABPSITEC (Juani, Adri), GEOTEC ()
+Participants. LABPSITEC (Juani, Adri), GEOTEC (Sven, Alberto, Nacho, Carlos)
+
+Next efforts to advance in the intervention part of the platform. However, intervention-related actions strongly depends on the disorder. The pattern of "exposure" that's applied to phobias is also applicable to gambling disorder: hierarchy of places, decision tree, avoid to leave out a place until the level of anxiety/emotion is below of a given threshold. To implement an event of exposure in Symptopms is gaining traction as it is a well-known component of the CBT applicable to different disorder as EMI. Other can be the *cognitive component* which is activated when a patient has bad thoughts in a place, and based on this action, a predefined, custom intervention is launched. Imagine, a therapist selects a "plantilla" of phobia or gambling, and then she finds the follwing main (analytical) units.
+
+* event of exposure
+* cognitive component
+* mix of thereof
+
+
+ 
 
 
 ### Meeting 2019-10-17
