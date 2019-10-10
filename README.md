@@ -191,7 +191,7 @@ During the second part of the meeting, we focused on the "plantillas" (protocols
 We continued the discussion with a well-known technique related to the phobias to certain places ("plantilla fobias"). It is called "exposure" and basically means forcing a patient to visit a place that produces a high level of fear, for example. It is expected that continuous expositions accompanied with in situ interventions can change the patient’s behaviour and lead to a drastic reduction of “fear” while being exposed in that place.In addition, all relevant places are not equally important during treatment; There is a hierarchy of places that organizes them from easy to difficult places to face (like the stages of a game). SO, the follosign analytica units are importante:
 * selection of relevant places
 * rank places. A patient starts the treatment with "easy" places, and as she advances, she's confronted with "difficult" ones. 
-* define (clinical) decision tree during the event of exposure in a place (the decision tree can be the same for all places, what changes is the psyco-educational content delivered). it is the sequence of interventions while the patient is in the place.
+* define (clinical) decision tree during the event of exposure in a place (the decision tree can be the same for all places, what changes is the psyco-educational content to deliver). In other works, the tree is the sequence of interventions while the patient is in the place.
 
 **Action**: Diana to create a detailed (clinical) decision tree of the event of exposure in the treatment of phobias
 
@@ -211,11 +211,11 @@ In summary:
 * Ask directly the level of “fear”
 
 ### Meeting 2019-10-10
-Participants. LABPSITEC (), GEOTEC ()
+Participants. LABPSITEC (Juani, Adri), GEOTEC ()
 
 
 ### Meeting 2019-10-17
-Participants. LABPSITEC (), GEOTEC ()
+Participants. LABPSITEC (Diana, Adri), GEOTEC ()
 
 
 ### Meeting YYYY-MM-DD
