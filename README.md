@@ -229,8 +229,17 @@ __Decision__: Focus on phobia diosrder (which is broader disorder with a large v
 
 The platform should support only some steps/modules of a treatment, as the entire treamte cover much much that the sceop fo the plattofm. __Advise__: Focus on a particular step of a treatment in which technology can fill a gap when traditional procedure cannot reach out. Design/create/deploy components/apps that address a concrete, atomised aspect of a treatment. 
 
-The ultimate goal of the platform is to prove the versatility of the platform to quickly generate ad-hoc apps to cope with atominised situations. Can indoor locatisation be the next feature for treatment? Resolution: where the patient is on the level of room where he/she is. 
+The ultimate goal of the platform is to prove the versatility of the platform to quickly generate ad-hoc apps to cope with atominised situations. Can indoor locatisation be the next feature for treatment? Spatial resolution is room level: in which room a patient is? 
 
+A key aspect is the the delivery of collected data with the right level of aggregation to the psychlogists. The app/platform collect a lot of data, with a finer level of data. Be ready then to post-process the data according to the requeriments of hte treatment (in ters of needed variables). __Advise__: check out the expected variables (from the psychologist's perspective) before starting the treatment, to make sure these variables can be fully derieved from collected data. 
+
+Real-time analsys is nice, but if development takes so long, therapists do not need real-time delivery of aggregated information. For examle, pricess informmation over night, adn delvier report nexy morning. 
+
+In the event of exposure, hierarchy of places is flexible in two senses. First, that hierarchy can change wrt the initial ranking of places. Second, a place can be revisited if therapist thinks so.
+
+__Decision__:  Write the requirements and narrative of an event of exposure, with examples of content, frequeny of exposure, etc.
+__Action__: Diana/Adri to create a detailed (clinical) decision tree of the event of exposure in the treatment of phobia by __Nov 10__. Based on this, GEOTEC group works on then technical details/requirements to address the functional needs. Discuss over and over to get an event of exposure with the right balance between functional and technical needs.  
+ 
 
 ### Meeting YYYY-MM-DD
 Participants. LABPSITEC (...), GEOTEC (...)
