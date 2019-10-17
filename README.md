@@ -188,12 +188,12 @@ That was a long meeting to primary discuss usability aspects of a new user inter
   
 During the second part of the meeting, we focused on the "plantillas" (protocols). The basic idea is to provide a predefined set of analytical tools / units to therapists associated with a particular disorder. Then, there will be a "plantilla" of depression, phobias, etc. We begin to discuss the case of depression. For example, there are two key places: "home" and "work" that influence on the computation of the real-time outside home (and work). So, time away from home = total time away - time at work. Then, it was commented having several days at the beginning of a treatment as a calibration phase ("baseline") to determine the patient's behavior. At some point, the treatment is really activated by introducing more interaction, evaluation and intervention. In summary, a treatment for depression includes a part of evaluation (data collection) + intervention (interaction). During the intervention, when things are going well, the patient receives a form of content or another form of content when things are not so well as expected.
   
-We continued the discussion with a well-known technique related to the phobias to certain places ("plantilla fobias"). It is called "exposure" and basically means forcing a patient to visit a place that produces a high level of fear, for example. It is expected that continuous expositions accompanied with in situ interventions can change the patient’s behaviour and lead to a drastic reduction of “fear” while being exposed in that place.In addition, all relevant places are not equally important during treatment; There is a hierarchy of places that organizes them from easy to difficult places to face (like the stages of a game). SO, the following analytical units seem to be important:
+We continued the discussion with a well-known technique related to the phobias to certain places ("plantilla fobias"). It is called "exposure" and basically means forcing a patient to visit a place that produces a high level of fear, for example. It is expected that continuous expositions accompanied with in situ interventions can change the patient’s behaviour and lead to a drastic reduction of “fear” while being exposed in that place.In addition, all relevant places are not equally important during treatment; There is a hierarchy of places that organizes them from easy to difficult places to face (like the stages of a game). So, the following analytical units seem to be important:
 * selection of relevant places
 * rank places. A patient starts the treatment with "easy" places, and as she advances, she's confronted with "difficult" ones. 
 * define (clinical) decision tree during the event of exposure in a place (the decision tree can be the same for all places, what changes is the psyco-educational content to deliver). In other works, the tree is the sequence of interventions while the patient is in the place.
 
-**Action**: Diana to create a detailed (clinical) decision tree of the event of exposure in the treatment of phobias
+__Action__: Diana to create a detailed (clinical) decision tree of the event of exposure in the treatment of phobias
 
 *My thoughts (carlos): That “exposure” pattern may fit pretty well with graph models. During an event of exposure, a patient is in a place and she’s asked about the level of fear on a regular basis or just after an intervention (psyco-education content, encouraging messages, etc.) is delivered to the patient. So, assuming an event of exposure takes a short period of time (e.g 30 min), a patient is asked the same question various times (level of “fear”), and each question-answer does generate a new relationship between the patient node and the place node with the level of emotion recorded.*
 
@@ -223,8 +223,13 @@ General aggrement on advancing the intervention part of the platform, so that ca
 Go for last case with the same disorder (e.g. gambling), and go on from less to much stronger experiments (N=1, ....) 
 
 ### Meeting 2019-10-17
-Participants. LABPSITEC (Diana, Adri), GEOTEC ()
+Participants. LABPSITEC (Diana, Adri), GEOTEC (Sven, Alberto, Nacho, Carlos)
 
+__Decision__: Focus on phobia diosrder (which is broader disorder with a large variety of ramifications) and, particularly, exposure as the main use case in which geoinformation can play an important role.
+
+The platform should support only some steps/modules of a treatment, as the entire treamte cover much much that the sceop fo the plattofm. __Advise__: Focus on a particular step of a treatment in which technology can fill a gap when traditional procedure cannot reach out. Design/create/deploy components/apps that address a concrete, atomised aspect of a treatment. 
+
+The ultimate goal of the platform is to prove the versatility of the platform to quickly generate ad-hoc apps to cope with atominised situations. Can indoor locatisation be the next feature for treatment? Resolution: where the patient is on the level of room where he/she is. 
 
 
 ### Meeting YYYY-MM-DD
